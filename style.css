@@ -4,8 +4,16 @@ body {
 
 
 
+
 }
 
 div {
     color: rgb(188, 238, 10);
+
+
+}
+
+.container-fluid {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
